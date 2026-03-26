@@ -369,17 +369,3 @@ docker run -p 3001:3001 dev-burguer-api
 - Valide dados de entrada com Yup
 
 ---
-
-## 📄 Licença
-
-Este projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para mais detalhes.
-
----
-
-## 👨‍💻 Autor
-
-Desenvolvido com ❤️ por [Seu Nome](https://github.com/seu-usuario)
-
----
-
-⭐ Se este projeto te ajudou, considere dar uma estrela!
