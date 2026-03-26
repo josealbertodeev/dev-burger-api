@@ -24,7 +24,7 @@ class Database {
 
 	async connectMongo() {
 		try {
-			await mongoose.connect(process.env.MONGO_URL, {
+			await mongoose.connect('mongodb://localhost:27017/dev-burguer-db', {
 				serverSelectionTimeoutMS: 5000,
 			});
 			console.log('MongoDB conectado');
